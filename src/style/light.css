@@ -1,0 +1,30 @@
+.contain-nav {
+    background-color: rgb(255, 255, 255);
+}
+#white-moon {
+    display: block;
+}
+#dark-moon {
+    display: none;
+}
+h1 {
+    color: black;
+}
+#root {
+    background-color: rgb(255, 255, 255);
+}
+.search-region {
+    background-color: rgb(255, 255, 255);
+}
+p {
+    color: black;
+}
+h2 {
+    color: black;
+}
+input {
+    background-color: rgb(255, 255, 255);
+}
+.card {
+    background-color: rgb(255, 255, 255);
+}

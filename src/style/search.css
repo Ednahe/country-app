@@ -1,0 +1,15 @@
+.search-region {
+    display: none;
+    margin-top: 20px;
+    position: absolute;
+    flex-direction: column;
+    gap: 4px;
+    background-color: white;
+    padding: 20px;
+}
+.filter-region {
+    cursor: pointer;
+}
+.search {
+    cursor: pointer;
+}
